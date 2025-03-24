@@ -1,4 +1,4 @@
-package com.example.icecream
+package com.g0g4n.icecream
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

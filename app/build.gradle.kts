@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.icecream"
+    namespace = "com.g0g4n.icecream"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.icecream"
+        applicationId = "com.g0g4n.icecream"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

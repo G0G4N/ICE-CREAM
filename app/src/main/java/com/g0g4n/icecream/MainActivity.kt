@@ -1,4 +1,4 @@
-package com.example.icecream
+package com.g0g4n.icecream
 
 import android.Manifest
 import android.app.AlarmManager
@@ -22,7 +22,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.core.content.ContextCompat
-import com.example.icecream.ui.theme.ICECREAMTheme
+import com.g0g4n.icecream.ui.theme.ICECREAMTheme
 import java.util.Calendar
 
 class MainActivity : ComponentActivity() {

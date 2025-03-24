@@ -1,4 +1,4 @@
-package com.example.icecream.ui.theme
+package com.g0g4n.icecream.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

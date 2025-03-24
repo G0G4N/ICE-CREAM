@@ -1,4 +1,4 @@
-package com.example.icecream
+package com.g0g4n.icecream
 
 import android.Manifest
 import android.app.NotificationChannel
