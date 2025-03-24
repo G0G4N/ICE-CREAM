@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
                 Log.i("Permission: ", "Granted")
                 scheduleNotification()
             } else {
-                Log.i("Permission: ", "Denied")
+                Log.i("Permission: ", "Denied:(")
             }
         }
 
